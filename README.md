@@ -1,7 +1,14 @@
 
 ### Hi there 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dadandfamous&layout=compact)](https://github.com/dadandfamous/github-readme-stats)
+##  GitHub Stats:
+
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=dadandfamous&layout=compact&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=6" />
+
+
+<p></p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Dadandfamous&hide=stars,issues,contribs&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Dadandfamous' GitHub Stats" />
+
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
